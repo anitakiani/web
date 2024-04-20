@@ -1,0 +1,6 @@
+git clone address 
+git pull  when you run your prject at first time in the day 
+git add .  when you add a file 
+git commit -am "message"    when you change a file 
+git push    when  you finish changing files
+for notepad you have to push control s to save the text
